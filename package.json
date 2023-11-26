@@ -1,0 +1,15 @@
+// package.json
+{
+  "name": "discord-bot-example",
+  "version": "1.0.0",
+  "description": "A simple Discord bot example",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
